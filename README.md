@@ -57,14 +57,3 @@ gradle run
 Always keep separate backups of your saves.
 
 This tool **automatically creates `data.json.bak`** before every save, but you should still keep independent copies of important save data.
-
-## Acceptance checklist
-
-- [x] Detects default saves folder and lists `slotXX`
-- [x] Loads `<slot>/data.json`
-- [x] Displays up to 8 characters as tabs, in order
-- [x] Each tab edits `equippedItems[0..5]` with correct slot mapping
-- [x] Dropdowns populate from `quartet_item_list_alpha2_originals_only.json`
-- [x] Save creates `<slot>/data.json.bak` then writes `<slot>/data.json`
-- [x] Reload works
-- [x] Handles unknown item IDs and JSON issues gracefully
