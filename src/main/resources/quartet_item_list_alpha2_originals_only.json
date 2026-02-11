@@ -1,0 +1,27 @@
+{
+  "Accessories": [
+    "accessory_diadem",
+    "accessory_melpomenesmask",
+    "accessory_manaorb"
+  ],
+  "Armor": [
+    "armor_sdfarmor",
+    "armor_ancientshroud",
+    "armor_knightplate"
+  ],
+  "Helms": [
+    "helm_prismaticcrest",
+    "helm_guardcirclet",
+    "helm_starseerhood"
+  ],
+  "Items": [
+    "item_hipotion",
+    "item_manatonic",
+    "item_phoenixherb"
+  ],
+  "Weapons": [
+    "weapon_highmagestaff",
+    "weapon_asterblade",
+    "weapon_grandlance"
+  ]
+}
